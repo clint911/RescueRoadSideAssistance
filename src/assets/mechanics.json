@@ -1,0 +1,179 @@
+{
+  "mechanics": [
+    {
+      "firstname": "John",
+      "secondname": "Smith",
+      "age": 35,
+      "gender": "Male",
+      "experience": {
+        "specialization": [
+          "Certification A",
+          "Certification B"
+        ],
+        "licenseNumber": "L12345"
+      },
+      "phoneNumber": "+1 (123) 456-7890",
+      "servicesOffered": [
+        "Oil Change",
+        "Brake Repair",
+        "Tire Rotation"
+      ],
+      "ratings": 4.8
+    },
+    {
+      "firstname": "Emily",
+      "secondname": "Johnson",
+      "age": 28,
+      "gender": "Female",
+      "experience": {
+        "specialization": [
+          "Certification C"
+        ],
+        "licenseNumber": "L23456"
+      },
+      "phoneNumber": "+1 (234) 567-8901",
+      "servicesOffered": [
+        "Engine Diagnostics",
+        "Battery Replacement",
+        "Transmission Repair"
+      ],
+      "ratings": 4.5
+    },
+    {
+      "firstname": "Michael",
+      "secondname": "Williams",
+      "age": 42,
+      "gender": "Male",
+      "experience": {
+        "specialization": [
+          "Certification D",
+          "Certification E"
+        ],
+        "licenseNumber": "L34567"
+      },
+      "phoneNumber": "+1 (345) 678-9012",
+      "servicesOffered": [
+        "Suspension Repair",
+        "Air Conditioning Service",
+        "Electrical System Repair"
+      ],
+      "ratings": 4.9
+    },
+    {
+      "firstname": "Emma",
+      "secondname": "Brown",
+      "age": 31,
+      "gender": "Female",
+      "experience": {
+        "specialization": [
+          "Certification F"
+        ],
+        "licenseNumber": "L45678"
+      },
+      "phoneNumber": "+1 (456) 789-0123",
+      "servicesOffered": [
+        "Wheel Alignment",
+        "Exhaust System Repair",
+        "Fuel System Cleaning"
+      ],
+      "ratings": 4.7
+    },
+    {
+      "firstname": "Daniel",
+      "secondname": "Jones",
+      "age": 39,
+      "gender": "Male",
+      "experience": {
+        "specialization": [
+          "Certification G",
+          "Certification H"
+        ],
+        "licenseNumber": "L56789"
+      },
+      "phoneNumber": "+1 (567) 890-1234",
+      "servicesOffered": [
+        "Radiator Repair",
+        "Ignition System Repair",
+        "Steering System Repair"
+      ],
+      "ratings": 4.6
+    },
+    {
+      "firstname": "Olivia",
+      "secondname": "Miller",
+      "age": 27,
+      "gender": "Female",
+      "experience": {
+        "specialization": [
+          "Certification I"
+        ],
+        "licenseNumber": "L67890"
+      },
+      "phoneNumber": "+1 (678) 901-2345",
+      "servicesOffered": [
+        "Alternator Replacement",
+        "Timing Belt Replacement",
+        "Wiper Blade Replacement"
+      ],
+      "ratings": 4.4
+    },
+    {
+      "firstname": "Matthew",
+      "secondname": "Davis",
+      "age": 36,
+      "gender": "Male",
+      "experience": {
+        "specialization": [
+          "Certification J"
+        ],
+        "licenseNumber": "L78901"
+      },
+      "phoneNumber": "+1 (789) 012-3456",
+      "servicesOffered": [
+        "Cooling System Repair",
+        "Clutch Replacement",
+        "Preventive Maintenance"
+      ],
+      "ratings": 4.8
+    },
+    {
+      "firstname": "Ava",
+      "secondname": "Taylor",
+      "age": 33,
+      "gender": "Female",
+      "experience": {
+        "specialization": [
+          "Certification K",
+          "Certification L"
+        ],
+        "licenseNumber": "L89012"
+      },
+      "phoneNumber": "+1 (890) 123-4567",
+      "servicesOffered": [
+        "Fuel Injector Cleaning",
+        "Drive Belt Replacement",
+        "Air Filter Replacement"
+      ],
+      "ratings": 4.9
+    },
+    {
+      "firstname": "Jacob",
+      "secondname": "Anderson",
+      "age": 40,
+      "gender": "Male",
+      "experience": {
+        "specialization": [
+          "Certification M"
+        ],
+        "licenseNumber": "L90123"
+      },
+      "phoneNumber": "+1 (901) 234-5678",
+      "servicesOffered": [
+        "Brake Pad Replacement",
+        "Spark Plug Replacement",
+        "Oxygen Sensor Replacement"
+      ],
+      "ratings": 4.7
+    }
+  ]
+}
